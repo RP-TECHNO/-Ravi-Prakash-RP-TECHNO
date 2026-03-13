@@ -50,9 +50,9 @@ Linux
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devopsRP&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devopsRP&theme=darkhub&no-frame=true&margin-w=10)
 
 ---
 

@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer%20RP&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Hi, I'm RP
+# 👋 Hi, I'm Ravi prakash
 
 🚀 DevOps & Cloud Engineer | Automation | CI/CD | Cloud Infrastructure
 
@@ -58,5 +58,5 @@ Linux
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/ravi-prakash-3b81a9391 
+LinkedIn: www.linkedin.com/in/ravi-prakash-3b81a9391
 Email: krpofficial25@gmail.com

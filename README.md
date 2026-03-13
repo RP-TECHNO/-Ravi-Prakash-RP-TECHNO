@@ -54,9 +54,11 @@ Monitoring infrastructure with logging and alerting setup.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![RP GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsRP&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devopsRP&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devopsRP&theme=github-dark&hide_border=true)
 
 ---
 

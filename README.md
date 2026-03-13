@@ -1,62 +1,79 @@
-# -Ravi-Prakash-RP-TECHNO
+DevOps & Cloud Engineer | AWS | Azure | Terraform | Docker | Kubernetes | CI/CD | Automation
 
 # Hi 👋 I'm Ravi prakash
 
-🚀 Cloud | DevOps | MLOps Engineer  
-⚙️ Passionate about Automation & Scalable Systems  
+🚀 DevOps & Cloud Engineer | Infrastructure Automation | CI/CD Specialist  
+
+I am a passionate **DevOps & Cloud Engineer with hands-on experience** in designing, automating, and managing scalable cloud infrastructure and CI/CD pipelines.  
+
+I focus on **automation, reliability, and scalable infrastructure** using modern DevOps tools and cloud platforms.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Tech Stack
 
-- 🔭 Currently working on **Cloud & DevOps Projects**
-- 🌱 Learning **Advanced Kubernetes & MLOps**
-- 💡 Interested in **Automation, Infrastructure as Code, and AI Systems**
-- 🚀 Love building scalable and reliable systems
-- 📚 Always exploring new technologies
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+
+### ⚙️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+
+### 🔁 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+
+### 💻 Operating System & Tools
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 DevOps Projects
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+🔹 **Terraform AWS Infrastructure Project**  
+Provisioning complete cloud infrastructure using Terraform.
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?logo=google-cloud)
+🔹 **CI/CD Pipeline Project**  
+Automated build, test, and deployment pipeline using GitHub Actions.
 
-### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions)
+🔹 **Dockerized Application Deployment**  
+Containerizing applications using Docker for scalable deployment.
 
-### 🤖 MLOps
-- ML Pipelines  
-- Model Deployment  
-- Data Workflows  
+🔹 **Kubernetes Microservices Deployment**  
+Deploying microservices architecture on Kubernetes cluster.
+
+🔹 **Cloud Monitoring Project**  
+Monitoring infrastructure with logging and alerting setup.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 🌱 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+- Advanced Kubernetes Architecture
+- Cloud Security Best Practices
+- Platform Engineering
+- DevOps Automation at Scale
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 🌎 Portfolio Website
-- 🐦 Twitter
+LinkedIn: www.linkedin.com/in/ravi-prakash-3b81a9391  
+Email: krpofficial25@gmail.com
+
+---
+
+⭐ Always learning, building and automating!

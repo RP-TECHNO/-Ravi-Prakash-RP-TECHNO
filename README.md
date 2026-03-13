@@ -129,9 +129,9 @@ Mindset     : "Infrastructure as Code is not optional — it's the foundation."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-prakash-3b81a9391)
 [![GitHub](https://img.shields.io/badge/GitHub-devopsRP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopsRP)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krpofficial25@gmail.com)
 
 </div>
 
